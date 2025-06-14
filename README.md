@@ -16,4 +16,4 @@ A simulated toolkit for testing persistence and covert access techniques on Linu
 This project is for legal testing and Red Team education only.
 
 ## 👤 Author
-Developed by [Your Name or Alias]
+Developed by Niraj Ashtaputre
